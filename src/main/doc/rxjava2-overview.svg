@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  width="1920"
+  height="1080"
+  viewBox="0 0 508.00001 285.74999"
+  version="1.1"
+  id="svg8"
+  inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+  sodipodi:docname="rxjava2-overview.svg">
+  <defs
+    id="defs2">
+    <marker
+      inkscape:stockid="Arrow1Lend"
+      orient="auto"
+      refY="0.0"
+      refX="0.0"
+      id="marker10000"
+      style="overflow:visible;"
+      inkscape:isstock="true">
+      <path
+        id="path9740"
+        d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+        transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+      inkscape:stockid="Arrow1Lend"
+      orient="auto"
+      refY="0.0"
+      refX="0.0"
+      id="marker5078"
+      style="overflow:visible;"
+      inkscape:isstock="true">
+      <path
+        id="path5076"
+        d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+        transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+      inkscape:isstock="true"
+      style="overflow:visible;"
+      id="marker5002"
+      refX="0.0"
+      refY="0.0"
+      orient="auto"
+      inkscape:stockid="Arrow1Lend"
+      inkscape:collect="always">
+      <path
+        transform="scale(0.8) rotate(180) translate(12.5,0)"
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+        d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+        id="path5000" />
+    </marker>
+    <marker
+      inkscape:stockid="Arrow1Lend"
+      orient="auto"
+      refY="0.0"
+      refX="0.0"
+      id="Arrow1Lend"
+      style="overflow:visible;"
+      inkscape:isstock="true"
+      inkscape:collect="always">
+      <path
+        id="path4633"
+        d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+        style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+        transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+      inkscape:stockid="Arrow2Lend"
+      orient="auto"
+      refY="0.0"
+      refX="0.0"
+      id="Arrow2Lend"
+      style="overflow:visible;"
+      inkscape:isstock="true">
+      <path
+        id="path4651"
+        style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+        d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+        transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+    id="base"
+    pagecolor="#ffffff"
+    bordercolor="#666666"
+    borderopacity="1.0"
+    inkscape:pageopacity="0.0"
+    inkscape:pageshadow="2"
+    inkscape:zoom="0.98994949"
+    inkscape:cx="908.07811"
+    inkscape:cy="555.25851"
+    inkscape:document-units="px"
+    inkscape:current-layer="layer1"
+    showgrid="false"
+    inkscape:window-width="3840"
+    inkscape:window-height="2160"
+    inkscape:window-x="3840"
+    inkscape:window-y="-37"
+    inkscape:window-maximized="1"
+    units="px" />
+  <metadata
+    id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+        rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+    inkscape:label="Layer 1"
+    inkscape:groupmode="layer"
+    id="layer1"
+    transform="translate(0,-11.25001)">
+    <rect
+      style="fill:#ffffff;stroke:#000000;stroke-width:0.28516352"
+      y="190.65059"
+      x="48.971642"
+      height="74.895256"
+      width="102.26083"
+      id="rect4954" />
+    <rect
+      id="rect110"
+      width="102.26083"
+      height="74.895256"
+      x="244.23045"
+      y="190.31546"
+      style="fill:#ffffff;stroke:#000000;stroke-width:0.28516352" />
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.27041626px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="134.93102"
+      y="104.44141"
+      id="text3715"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="134.93102"
+         y="104.44141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041">Konsument</tspan></text>
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.27041626px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="384.00061"
+      y="104.21407"
+      id="text3719"><tspan
+         sodipodi:role="line"
+         id="tspan3717"
+         x="384.00061"
+         y="104.21407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041">Produzent</tspan></text>
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-weight:normal;font-size:7.07755566px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="393.55765"
+      y="115.20595"
+      id="text33"><tspan
+   sodipodi:role="line"
+   id="tspan31"
+   x="393.55765"
+   y="141.74678"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041">HTTP</tspan>
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="115.20595"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan35" />
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="115.20595"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan9709" />
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="141.74678"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan891">Datenbank</tspan>
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="124.05289"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan37" />
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="124.05289"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan9711" />
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="141.74678"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan893">Berechnungen</tspan>
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="132.89984"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan39" />
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="132.89984"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan9713" />
+      <tspan
+        sodipodi:role="line"
+        x="393.55765"
+        y="141.74678"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan895">Login</tspan></text>
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-weight:normal;font-size:7.07755566px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="144.59711"
+      y="114.7781"
+      id="text33-1"><tspan
+   sodipodi:role="line"
+   x="144.59711"
+   y="141.31894"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+   id="tspan39-8">UI</tspan>
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="114.7781"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan94" />
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="114.7781"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan9703" />
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="141.31894"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan885">Microservice</tspan>
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="123.62505"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan106" />
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="123.62505"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan9705" />
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="141.31894"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan887">Monitoring</tspan>
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="132.47198"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan108" />
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="132.47198"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan9707" />
+      <tspan
+        sodipodi:role="line"
+        x="144.59711"
+        y="141.31894"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.07755566px;line-height:100%;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+        id="tspan889">Backup-System</tspan></text>
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-weight:normal;font-size:13.27041626px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="234.18642"
+      y="181.54799"
+      id="text98"><tspan
+         sodipodi:role="line"
+         id="tspan96"
+         x="234.18642"
+         y="181.54799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.96224976px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';stroke-width:0.33176041">MovieService#getBestMovies()</tspan></text>
+    <path
+      inkscape:connector-curvature="0"
+      id="path114"
+      d="M 295.51492,81.430382 V 166.8881"
+      style="fill:none;stroke:#000000;stroke-width:0.19607989px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+      style="fill:none;stroke:#000000;stroke-width:0.33176041;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+      d="m 414.68418,153.06203 c -2.01074,36.52904 -21.78335,72.72293 -60.9934,72.72293"
+      id="path116"
+      inkscape:connector-curvature="0"
+      sodipodi:nodetypes="cc" />
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-weight:normal;font-size:13.27041626px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="402.27087"
+      y="217.41348"
+      id="text120"><tspan
+         sodipodi:role="line"
+         id="tspan118"
+         x="402.27087"
+         y="217.41348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.73163891px;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041">erzeugt</tspan></text>
+    <path
+      style="fill:none;stroke:#000000;stroke-width:0.36961979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+      d="M 160.22248,211.01233 H 240.5067"
+      id="path4962"
+      inkscape:connector-curvature="0" />
+    <text
+      id="text4992"
+      y="207.96251"
+      x="209.77502"
+      style="font-style:normal;font-weight:normal;font-size:13.27041626px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.96224976px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:center;text-anchor:middle;stroke-width:0.33176041"
+         y="207.96251"
+         x="209.77502"
+         id="tspan4990"
+         sodipodi:role="line">subscribe()</tspan></text>
+    <path
+      inkscape:connector-curvature="0"
+      id="path4994"
+      d="M 236.50609,237.55318 H 159.54876"
+      style="fill:none;stroke:#000000;stroke-width:0.36188045px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5002)" />
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-weight:normal;font-size:13.27041626px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="209.81883"
+      y="234.50339"
+      id="text4998"><tspan
+         sodipodi:role="line"
+         id="tspan4996"
+         x="209.81883"
+         y="234.50339"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.96224976px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:center;text-anchor:middle;stroke-width:0.33176041">onNext(Movie)</tspan></text>
+    <path
+      style="fill:none;stroke:#000000;stroke-width:0.36343744px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5078)"
+      d="M 236.50609,252.15066 H 158.88511"
+      id="path5070"
+      inkscape:connector-curvature="0" />
+    <text
+      id="text5074"
+      y="249.10085"
+      x="209.81883"
+      style="font-style:normal;font-weight:normal;font-size:13.27041626px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.96224976px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:center;text-anchor:middle;stroke-width:0.33176041"
+         y="249.10085"
+         x="209.81883"
+         id="tspan5072"
+         sodipodi:role="line">onComplete()</tspan></text>
+    <g
+      id="g5362"
+      transform="matrix(1.2538976,0,0,1.2538976,-57.412602,56.136887)">
+      <text
+        xml:space="preserve"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+        x="274.54758"
+        y="118.82521"
+        id="text29"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="274.54758"
+           y="118.82521"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.26458332">Observable</tspan></text>
+      <text
+        id="text5352"
+        y="118.8619"
+        x="252.90413"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+        xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.26458332"
+           y="118.8619"
+           x="252.90413"
+           id="tspan5350"
+           sodipodi:role="line">io.reactivex.</tspan></text>
+    </g>
+    <g
+      id="g5368"
+      transform="matrix(1.2538976,0,0,1.2538976,-67.365415,56.136887)">
+      <text
+        xml:space="preserve"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+        x="128.39276"
+        y="119.60828"
+        id="text25"><tspan
+           sodipodi:role="line"
+           id="tspan23"
+           x="128.39276"
+           y="119.60828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:24;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.26458332">Observer</tspan></text>
+      <text
+        xml:space="preserve"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+        x="106.42968"
+        y="119.64497"
+        id="text5356"><tspan
+           sodipodi:role="line"
+           id="tspan5354"
+           x="106.42968"
+           y="119.64497"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.26458332">io.reactivex.</tspan></text>
+    </g>
+    <path
+      style="fill:none;stroke:#000000;stroke-width:0.33228287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10000)"
+      d="m 134.38875,122.23693 c -25.13464,0.67026 -58.982635,14.41053 -58.982635,57.30701"
+      id="path9717"
+      inkscape:connector-curvature="0"
+      sodipodi:nodetypes="cc" />
+    <text
+      xml:space="preserve"
+      style="font-style:normal;font-weight:normal;font-size:13.27041626px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      x="60.86599"
+      y="136.39507"
+      id="text120-3"><tspan
+         sodipodi:role="line"
+         id="tspan118-6"
+         x="60.86599"
+         y="136.39507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.73163891px;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041">erzeugt</tspan></text>
+    <text
+      id="text899"
+      y="54.172123"
+      x="148.17538"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.27041626px;line-height:1.25;font-family:oswald;-inkscape-font-specification:oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33176041"
+      xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.69388771px;font-family:oswald;-inkscape-font-specification:oswald;stroke-width:0.33176041"
+         y="54.172123"
+         x="148.17538"
+         id="tspan897"
+         sodipodi:role="line">Reactive Programming: Overview</tspan></text>
+  </g>
+</svg>
